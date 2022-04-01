@@ -1,41 +1,32 @@
 +++
-author = "Hugo Authors"
-date = 2019-03-10T00:00:00Z
+author = ""
+date = 2022-04-01T00:00:00Z
 description = "A brief description of Hugo Shortcodes"
-feature_image = "/images/kelly-sikkema-8RWZ93hLktI-unsplash.jpg"
-tags = ["shortcodes", "privacy"]
-title = "Rich Content"
+feature_image = "/images/office-desk-background-2021-09-24-04-03-06-utc.JPG"
+tags = ["Digital Marketing", "Digital Strategies", "Digital Marketing Strategies", "Lawyers", "Healthcare"]
+title = "Get the Digital Marketing Era into your business DNA"
 
 +++
-Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes) for rich content, along with a [Privacy Config](https://gohugo.io/about/hugo-and-gdpr/) and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-<!--more-->
+**Business has changed at an accelerated pace in recent years and the digital era is already with us. The advantages of adapting and including digital strategies to your business are huge.**
 
----
+The digital era has arrived and businesses must take into account that implementing a digital marketing strategy is essential for their growth in this era, but how to start? Any change at the beginning can be complicated, but here are some of the factors that you can define and make this process a path full of learning.
 
-## Instagram Simple Shortcode
+• Know how your company works, its objectives and establish processes that all your staff knows and applies.
 
-{{< instagram_simple BGvuInzyFAe hidecaption >}}
+• Understand your customers' needs and the way they seek information about services or products.
 
-<br>
+By understanding this two factors, you have already complete half of the process.
 
----
+![](/images/banner-digital-reputation-03.png)
 
-## YouTube Privacy Enhanced Shortcode
+You can be really surprised how the digital era is affecting business, in fact, there are many areas that you would never have thought before that would migrate to this type of digital communication.
 
-{{< youtube ZJthWmvUzzc >}}
+For example, lawyers, due to the need for their services and the context in which the market is, seek customers through social media offering their services and
 
-<br>
+emphasizing their added value. To this end, they include the Digital Marketing MUSTS for lawyers in their digital strategies.
 
----
+Also, Medical Digital Marketing, why not? In this pandemic we have realized how important it is to be informed about health issues and for this reason doctors have chosen to create strategies in which their added value is to make themselves known about the knowledge they have and thus attract more patients.
 
-## Twitter Simple Shortcode
+These are just some of the areas in which the digital era is penetrating with great intensity and bringing benefits to businesses and brands that dare to opt for this new modality.
 
-{{< twitter_simple 1085870671291310081 >}}
-
-<br>
-
----
-
-## Vimeo Simple Shortcode
-
-{{< vimeo_simple 48912912 >}}
+Our team is more than willing to continue working with you and trace the path in which you can meet more goals in your business. Click here to contact you directly and include the digital marketing era into your business DNA.
