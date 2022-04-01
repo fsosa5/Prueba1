@@ -17,7 +17,7 @@ The digital era has arrived and businesses must take into account that implement
 
 By understanding this two factors, you have already complete half of the process.
 
-![](/images/banner-digital-reputation-03.png)
+[![](/images/banner-digital-reputation-03.png)](https://bit.ly/3JVC6Av "Lawyers")
 
 You can be really surprised how the digital era is affecting business, in fact, there are many areas that you would never have thought before that would migrate to this type of digital communication.
 
