@@ -2,7 +2,7 @@
 author = ""
 date = 2022-04-01T00:00:00Z
 description = "A brief description of Hugo Shortcodes"
-feature_image = "/images/office-desk-background-2021-09-24-04-03-06-utc.JPG"
+feature_image = "/images/business-working-in-office-concept-typing-hands-2021-09-03-06-39-24-utc.jpg"
 tags = ["Digital Marketing", "Digital Strategies", "Digital Marketing Strategies", "Lawyers", "Healthcare"]
 title = "Get the Digital Marketing Era into your business DNA"
 
